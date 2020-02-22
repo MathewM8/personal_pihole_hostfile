@@ -1,0 +1,34 @@
+# This file is an attempt to block some ads on specific domains - listed belov 
+# where standard blokcklist on pihole failed for me
+#
+# you may use it at your own risk
+#
+#####################################
+#
+#Blocking ads on Sledujserialy.to
+#
+#####################################
+0.0.0.0 exosrv.com
+0.0.0.0 vkcdnservice.com
+0.0.0.0 syyycc.com
+0.0.0.0 333o.com
+0.0.0.0 mc.yandex.ru
+0.0.0.0 yadro.ru
+0.0.0.0 advinci.co
+0.0.0.0 googletagmanager.com
+0.0.0.0 exosrv.com
+0.0.0.0 etargetnet.com
+#####################################
+#
+# Blocking ads on putlockertv.to
+#
+#####################################
+0.0.0.0 amung.us
+0.0.0.0 pushnative.com
+0.0.0.0 zap.buzz
+0.0.0.0 google-analytics.com
+0.0.0.0 revrtb.com
+0.0.0.0 runative-syndicate.com
+0.0.0.0 pushnative.com
+0.0.0.0 addthis.com
+0.0.0.0 revrtb.com
